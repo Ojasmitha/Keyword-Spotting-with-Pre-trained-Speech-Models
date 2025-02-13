@@ -1,1 +1,2 @@
 # Keyword-Spotting-with-Pre-trained-Speech-Models
+Utilized pre-trained speech models from HuggingFace's Model Hub to develop a keyword spotting system on the SUPERB dataset. Integrated models with a Sequence Classification head, such as Wav2Vec2ForSequenceClassification, for real-time audio processing. Enhanced model performance through fine-tuning in a Python environment with libraries including datasets, transformers, and librosa.
